@@ -1,8 +1,8 @@
-#define _CRT_SECURE_NO_WARNINGS 1
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
-#include <stdbool.h>
+//#define _CRT_SECURE_NO_WARNINGS 1
+//#include <stdio.h>
+//#include <stdlib.h>
+//#include <time.h>
+//#include <stdbool.h>
 //void menu() {
 //	printf("=================\n");
 //	printf("==0.exit=========\n");

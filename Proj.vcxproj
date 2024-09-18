@@ -146,6 +146,7 @@
     <ClCompile Include="005.c" />
     <ClCompile Include="006.c" />
     <ClCompile Include="007.c" />
+    <ClCompile Include="008.c" />
     <ClCompile Include="三子棋.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
